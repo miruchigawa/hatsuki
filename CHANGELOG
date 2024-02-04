@@ -1,4 +1,13 @@
-# Demo 1.0
-[x] Basic slash command
-[x] Auto remove old slash command & push
-[ ] Basic form & button
+# Changelog
+
+## Demo 1.0
+
+### Added
+- Implemented basic slash command functionality.
+- Set up automatic removal of old slash commands and pushed updates.
+
+### Changed
+- Improved the structure for better clarity.
+
+### To Do
+- Work in progress: Adding basic form and button functionality.
